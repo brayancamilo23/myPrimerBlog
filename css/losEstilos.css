@@ -17,10 +17,10 @@ body
 
 #cabecera 
 {
-    background: rgb(19, 231, 221);
+    background: rgb(56, 68, 226);
     box-shadow: 0px 5px 70px 0px rgba(24, 9, 231, 0.95); /* //crea un sombreado al borde */
-    color: black;
-    font-weight: bold;
+    color: white;
+    font-weight: bolder;
     margin: 0;
     padding: 0.5em;
 
