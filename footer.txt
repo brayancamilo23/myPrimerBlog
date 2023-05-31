@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 ﻿en este footer cambiamos texto para subirlo a hitHub y ver que pasaba ah hacer merge
+=======
