@@ -1,3 +1,5 @@
 <<<<<<< HEAD
 ﻿en este footer cambiamos texto para subirlo a hitHub y ver que pasaba ah hacer merge a
-=======
+=======  
+
+quiero saber que pasa si modifico en hit hub a footer.txt y luego hago pull a mi repo local donde esta diferente mi footer.txt
