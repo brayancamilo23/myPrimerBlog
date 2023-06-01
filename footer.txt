@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-﻿en este footer cambiamos texto para subirlo a hitHub y ver que pasaba ah hacer merge a
+en este footer cambiamos texto para subirlo a hitHub y ver que pasaba ah hacer merge a
 =======  
 
 esta es una historia reciente y antigua a la vez
