@@ -1,7 +1,11 @@
 HISTORIA DE ANITA Y BRAYANCAM
 
+<<<<<<< HEAD
 
 anita tine 26 años y vive en el barrio jardin norte y es de Popayan
+=======
+en linea 4 en hitHub agregue linea en historia.txt
+>>>>>>> footer
 
 se conocieron en el gym
 
